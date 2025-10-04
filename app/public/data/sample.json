@@ -1,0 +1,84 @@
+{
+  "name": "孫碩亨",
+  "englishName": "Shuo-Heng Sun",
+  "overview": [
+    "喜歡透過修課及專題並行的模式，認識不同領域，同時累積經驗。",
+    "多元探索後，聚焦 EDA 領域，並透過專題與競賽延伸學習。",
+    "計畫把握大學部時期多元修課，累積更多元的基礎能力以利後續發展。"
+  ],
+  "email": "b11901157@ntu.edu.tw",
+  "github": "https://github.com/shsunn",
+  "highlights": [
+    "CAD Contest 2025 Problem B：針對 overlap 製作檢查與修正；beta 第 2（final 待公布）",
+    "建立 DEF/LEF/lib parser 與視覺化，支援流程原型與格式輸出",
+    "專題與修課並行，將想法落地到可驗證流程"
+  ],
+  "timeline": [
+    { "term": "大一~大二", "desc": "著重在共同必修及基礎課程的學習與適應" },
+    { "term": "大三上", "desc": "多專題探索（ EMC / CV / DLHLP ）；同時修微波系統導論、電磁波實驗、機器學習" },
+    { "term": "大三下", "desc": "加入 floorplanning 專題；修 EDA 導論，並以期末專題參加 2025 CAD Contest Problem B 取得相當成果" },
+    { "term": "大四上", "desc": "在專題延續 global placement 主題；修習積體電路設計，以及網路服務程式設計，累積多元基礎能力" },
+    { "term": "大四下", "desc": "繼續修習 EDA 各領域的課程，扎實基礎以利後續研究，同時把握大學部時期，增加技能與經驗的廣度" }
+  ],
+  "projects": [
+    {
+      "title": "Floorplanning & Global Placement",
+      "start": "2025/02",
+      "end": "ongoings",
+      "advisor": "江蕙如 教授",
+      "org": "專題研究",
+      "tags": ["EDA", "Global Placement", "Legalization"],
+      "bullets": [
+        "研讀 fixed-outline floorplanning 與 placement 相關文獻，建立對領域的基礎認知",
+        "在老師引導下報名 2025 CAD Contest Problem B，並在課程期末專題後持續推進"
+      ]
+    },
+    {
+      "title": "CAD Contest 2025 Problem B",
+      "start": "2025/04",
+      "end": "2025/09",
+      "advisor": "指導：江蕙如 教授、江介宏 教授",
+      "org": "團隊競賽",
+      "tags": ["EDA", "MBFF", "Banking", "Legalization"],
+      "bullets": [
+        "任務分工與協作；以 Git 版控與變更追蹤；小型試作評估方案可行性",
+        "於 meeting 時清單化回報進度與問題，釐清阻塞點並規劃下一步",  
+        "Beta 公布第 2；final 未公布。公開測資得分符合預期；驗證修補 legalizer 的 corner cases 成功"
+      ]
+    },
+    {
+      "title": "Common Mode Filter & Signal Integrity",
+      "start": "2024/07",
+      "end": "2025/08",
+      "advisor": "吳宗霖 教授",
+      "org": "專題研究",
+      "tags": ["EMC", "SI", "CMF", "A-CMF"],
+      "bullets": [
+        "系統性研讀 CMF 文獻，對研究流程有相當程度認識",
+        "依文獻重建方法，使用電路與全波模擬進行驗證",
+        "meeting 場合清楚呈現論文創新點，提出具建設性的問題與理解"
+      ]
+    }
+  ],
+  "education": [
+    { "school": "國立臺灣大學 電機工程學系", "program": "學士（預計應屆 114 學年度畢業）", "start": "2022/09", "end": "ongoings"},
+    { "school": "臺北市立建國高級中學", "program": "普通科", "start": "2019/09", "end": "2022/06", "desc": "應屆分科入學臺大電機" }
+  ],
+  "skills": [
+    { "category": "EDA 設計流程", "items": ["布局設計與檔案格式處理", "Placement / Legalization 基礎脈絡與演算法實作", "時序分析工具"] },
+    { "category": "Programming", "items": ["C++", "Python", "TypeScript"] },
+    { "category": "協作與環境", "items": ["Git / GitHub", "Linux", "Open‑source parsers"] }
+  ],
+  "clubs": [
+    { "name": "模擬聯合國社", "role": "公關部副部長", "desc": "國際組織背景認識、國際時事議題討論" },
+    { "name": "台灣日本交流協會", "desc": "累積跨文化溝通經驗、文化差異認識" },
+    { "name": "慈幼社區服務團", "desc": "偏鄉小學短期教學與社區服務、學童關懷" },
+    { "name": "東谷沙飛社", "desc": "布農族部落服務、田野調查、在地文化認識" }
+  ],
+  "sports": [
+    "健身：設定目標與週期化訓練（每週 2 次）",
+    "游泳：長距離與間歇並行，訓練體力與調適心情",
+    "保齡球：穩定出手節奏與路線策略，專注力訓練"
+  ]
+}
+
